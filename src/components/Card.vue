@@ -42,5 +42,8 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="css" scoped>
+  .card {
+    min-height: 100%;
+  }
 </style>
